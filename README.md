@@ -11,6 +11,7 @@ I am learning GitHub step by step.
 - Learn GitHub basics
 - Learn Python
 - Create my own projects
+- learn AI development
 
 ## Author
 
